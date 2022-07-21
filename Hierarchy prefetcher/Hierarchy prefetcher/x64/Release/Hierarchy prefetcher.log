@@ -1,0 +1,19 @@
+﻿  nested_IO.cpp
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(152,90): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=size_t
+          ]
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(154,26): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(313,86): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=size_t
+          ]
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(315,22): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码
+  2 of 1819 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Hierarchy prefetcher.vcxproj -> C:\Users\84779\Desktop\Hierarchy prefetcher\x64\Release\Hierarchy prefetcher.exe

@@ -1,0 +1,23 @@
+﻿  Hierarchy_Prefetcher.cpp
+  main.cpp
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\main.cpp(67,30): warning C4805: “==”: 在操作中将类型“long”与类型“bool”混合不安全
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\main.cpp(79,14): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\main.cpp(80,12): warning C4244: “初始化”: 从“double”转换到“long”，可能丢失数据
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\main.cpp(142,31): warning C4805: “==”: 在操作中将类型“long”与类型“bool”混合不安全
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\main.cpp(232,13): warning C4326: “main”的返回类型应为“int”而非“void”
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\main.cpp(237,58): warning C4307: “*”: 有符号整型常量溢出
+  nested_IO.cpp
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(152,90): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=size_t
+          ]
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(154,26): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(313,86): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=size_t
+          ]
+C:\Users\84779\Desktop\Hierarchy prefetcher\Hierarchy prefetcher\nested_IO.cpp(315,22): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  Hierarchy prefetcher.vcxproj -> C:\Users\84779\Desktop\Hierarchy prefetcher\x64\Debug\Hierarchy prefetcher.exe
